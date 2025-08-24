@@ -2,25 +2,32 @@
 # Objective: The objective of this experiment is to utilize OpenCV to calibrate a camera.
 
 # Data Acquisition Process:
+![calib_0](https://github.com/user-attachments/assets/0eb710fd-d301-4f32-a0f9-8452228aaeb1)
 
-![calib_0](https://github.com/user-attachments/assets/1413d02b-c47d-4b48-b218-79d77eb033a3)
-![calib_1](https://github.com/user-attachments/assets/d9d4ee60-8b5b-4f7a-876d-0afe3f7c3918)
-![calib_2](https://github.com/user-attachments/assets/199b7956-d667-46f8-83e5-8d79a75c4c03)
-![calib_318](https://github.com/user-attachments/assets/6fcbeadc-2e2b-454d-ab7e-e786fa5d08f7)
+![calib_1](https://github.com/user-attachments/assets/36fa03f1-517d-4cab-9438-a5578643cc82)
 
-#Colab:
-https://colab.research.google.com/drive/14e-3cb_shgrnwgn7inhkrxm36IvLX0Ks#scrollTo=aswUqi7SZwXX
+
+![calib_290](https://github.com/user-attachments/assets/c55d2af6-75cd-47dd-9cc4-7e1b32a331c5)
+
+# Methodology: 
+In data acquisition, a total of 290 images were captured at different angles using a phone
+camera (Pixel 6) for calibration purposes. For setting up the dimension of the Charuco board, I specified
+the number of inner corners in the checkerboard (horizontal and vertical).For example : (11, 8) Charuco
+board.After configuring the checkerboard dimensions, I proceeded to prepare the object and image points
+required for calibration. The output is the result of corner detection for each image, indicating whether
+corners were found or not.
+
+
 # Results
 The output is the result of corner detection for each image, indicating whether corners were
 found or not. I successfully identified the corners in more than 50 images.
 
-![charuco_detect_calib_171](https://github.com/user-attachments/assets/77d4e00c-dd90-4f69-a055-6e6dbd5dac2d)
-![charuco_detect_calib_156](https://github.com/user-attachments/assets/90e66612-49f0-4ccd-b132-93f6b26057d3)
-![charuco_detect_calib_171](https://github.com/user-attachments/assets/aff2cd85-70e9-4a20-9939-797ea57366b1)
-![charuco_detect_calib_189](https://github.com/user-attachments/assets/26cb7962-b9b2-4cea-9501-c008625d2d48)
+
+# For code and documentaion
+https://colab.research.google.com/drive/1J2lGj0GAMR9PY8GIfNZ8h1AWtu3-2ahw
 
 # Undistored Image
-![undistorted_image1](https://github.com/user-attachments/assets/fe912d4f-8f9a-4437-8c29-52798419606f)
+
 
 
    
