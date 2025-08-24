@@ -1,7 +1,7 @@
-# OpenCV Camera Calibration
-# Objective: The objective of this experiment is to utilize OpenCV to calibrate a camera.
+OpenCV Camera Calibration
+Objective: The objective of this experiment is to utilize OpenCV to calibrate a camera.
 
-# Data Acquisition Process:
+Data Acquisition Process:
 
 ![calib_0](https://github.com/user-attachments/assets/1413d02b-c47d-4b48-b218-79d77eb033a3)
 ![calib_1](https://github.com/user-attachments/assets/d9d4ee60-8b5b-4f7a-876d-0afe3f7c3918)
