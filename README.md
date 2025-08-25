@@ -28,8 +28,9 @@ https://colab.research.google.com/drive/1J2lGj0GAMR9PY8GIfNZ8h1AWtu3-2ahw
 
 # Undistored Image
 
-![undistorted_image_charuco](https://github.com/user-attachments/assets/333e1181-44a9-423f-9703-4f9e642cf05d)
+
 
 
 
    
+![undistorted_image](https://github.com/user-attachments/assets/544003a5-8630-445f-a7d9-ead0e93d0be4)
